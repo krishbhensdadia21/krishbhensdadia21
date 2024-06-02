@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Krish Bhensdadia 👋</h1>
+<h1 align="left">Hi, I am Krish Bhensdadia 👋</h1>
 <h3 align="center">A software engineering student from Gujarat</h3>
 
 - 🔭 I’m currently studing **in Government Polytechnic Jamnagar**

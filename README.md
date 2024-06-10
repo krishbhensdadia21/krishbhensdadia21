@@ -1,10 +1,6 @@
 <h1 align="left">Hi, I am Krish Bhensdadia 👋</h1>
 <h3 align="left">A software engineering student from Gujarat</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishbhensdadia21&label=Profile%20views&color=0e75b6&style=flat" alt="krishbhensdadia21" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishbhensdadia21" alt="krishbhensdadia21" /></a> </p>
-
 - 🔭 I’m currently studing **in Government Polytechnic Jamnagar**
 
 - 🌱 I’m currently completing **my Diploma courses**

@@ -3,6 +3,8 @@
 <h1 align="left">Hi, I am Krish Bhensdadia 👋</h1>
 <h3 align="left">A software engineering student from Gujarat</h3>
 
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/cddead28262707.5637231a06718.gif">
+
 - 🔭 I’m currently studing **in Government Polytechnic Jamnagar**
 
 - 🌱 I’m currently completing **my Diploma courses**

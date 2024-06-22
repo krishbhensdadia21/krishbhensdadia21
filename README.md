@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="800" src="https://pixel-art-gallery.tumblr.com/image/679998316440911872">
+[![MasterHead](https://pixel-art-gallery.tumblr.com/image/679998316440911872)](https://rishavchanda.io)
 
 <h1 align="left">Hi, I am Krish Bhensdadia 👋</h1>
 <h3 align="left">A software engineering student from Gujarat</h3>

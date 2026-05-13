@@ -10,8 +10,6 @@ I am a second-year BTech Computer Engineering student dedicated to the developme
 
 Driven by a passion for **Artificial Intelligence and Automation**, I focus on creating innovative digital experiences while continuously evolving my skill set through hands-on project development and practical learning.
 
----
-
 # 🚀 Technical Skills
 
 ## 💻 Languages & Frameworks

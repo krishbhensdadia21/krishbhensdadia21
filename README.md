@@ -75,4 +75,4 @@ Driven by a passion for **Artificial Intelligence and Automation**, I focus on c
 
 # ⚡ Motto
 
-> “Building intelligent solutions through code, creativity, and continuous learning.”
+“Building intelligent solutions through code, creativity, and continuous learning.”

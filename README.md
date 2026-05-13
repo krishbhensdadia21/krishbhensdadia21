@@ -5,7 +5,6 @@
 ### Aspiring AI Engineer | Python Developer | Problem Solver
 
 ##
-
 # 👨‍💻 About Me
 
 I am a second-year BTech Computer Engineering student dedicated to the development of AI-driven tools and intelligent web applications. My expertise spans across **Python, Flask, and core web technologies**, allowing me to build comprehensive solutions for complex problems.
@@ -13,7 +12,6 @@ I am a second-year BTech Computer Engineering student dedicated to the developme
 Driven by a passion for **Artificial Intelligence and Automation**, I focus on creating innovative digital experiences while continuously evolving my skill set through hands-on project development and practical learning.
 
 ##
-
 # 🚀 Technical Skills
 
 ## 💻 Languages & Frameworks
@@ -25,7 +23,6 @@ Driven by a passion for **Artificial Intelligence and Automation**, I focus on c
 - JavaScript  
 
 ##
-
 ## 🛠 Tools & Databases
 
 - SQL  
@@ -33,7 +30,6 @@ Driven by a passion for **Artificial Intelligence and Automation**, I focus on c
 - GitHub  
 
 ##
-
 # 🎯 Core Competencies
 
 - Artificial Intelligence and Automation  
@@ -44,7 +40,6 @@ Driven by a passion for **Artificial Intelligence and Automation**, I focus on c
 - Intelligent Web Application Development  
 
 ##
-
 # 📂 Areas of Interest
 
 - Generative AI  
@@ -55,7 +50,6 @@ Driven by a passion for **Artificial Intelligence and Automation**, I focus on c
 - AI-Powered Tools  
 
 ##
-
 # 🌟 Current Focus
 
 - Building AI-powered web applications  
@@ -65,14 +59,12 @@ Driven by a passion for **Artificial Intelligence and Automation**, I focus on c
 - Creating scalable and responsive digital products  
 
 ##
-
 # 📫 Connect With Me
 
 - LinkedIn  
 - GitHub  
 
 ##
-
 # ⚡ Motto
 
 “Building intelligent solutions through code, creativity, and continuous learning.”

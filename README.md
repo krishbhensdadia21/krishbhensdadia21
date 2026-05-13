@@ -6,28 +6,76 @@
 
 ---
 
-### About Me
+# 👨‍💻 About Me
 
-I am a second-year BTech Computer Engineering student dedicated to the development of AI-driven tools and intelligent web applications. My expertise spans across Python, Flask, and core web technologies, allowing me to build comprehensive solutions for complex problems. Driven by a passion for Artificial Intelligence and Automation, I focus on creating innovative digital experiences while continuously evolving my skill set through hands-on project work.
+I am a second-year BTech Computer Engineering student dedicated to the development of AI-driven tools and intelligent web applications. My expertise spans across **Python, Flask, and core web technologies**, allowing me to build comprehensive solutions for complex problems.
+
+Driven by a passion for **Artificial Intelligence and Automation**, I focus on creating innovative digital experiences while continuously evolving my skill set through hands-on project development and practical learning.
 
 ---
 
-### Technical Skills
+# 🚀 Technical Skills
 
-**Languages and Frameworks**
+## 💻 Languages & Frameworks
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+- Python  
+- Flask  
+- HTML5  
+- CSS3  
+- JavaScript  
 
-**Tools and Databases**
+---
 
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 🛠 Tools & Databases
 
-**Core Competencies**
+- SQL  
+- Git  
+- GitHub  
 
-* Artificial Intelligence and Automation
-* Full-Stack Web Development
-* API Integration and Responsive Design
-* Problem Solving and Database Management
+---
+
+# 🎯 Core Competencies
+
+- Artificial Intelligence and Automation  
+- Full-Stack Web Development  
+- API Integration and Responsive Design  
+- Problem Solving and Database Management  
+- Backend Development with Flask  
+- Intelligent Web Application Development  
+
+---
+
+# 📂 Areas of Interest
+
+- Generative AI  
+- Machine Learning  
+- AI Automation Systems  
+- Web Application Development  
+- Intelligent Search Systems  
+- AI-Powered Tools  
+
+---
+
+# 🌟 Current Focus
+
+- Building AI-powered web applications  
+- Exploring advanced LLM integrations  
+- Developing intelligent automation tools  
+- Enhancing backend and API development skills  
+- Creating scalable and responsive digital products  
+
+---
+
+# 📫 Connect With Me
+
+- LinkedIn  
+- GitHub  
+
+---
+
+# ⚡ Motto
+
+> “Building intelligent solutions through code, creativity, and continuous learning.”
 
 ---
 

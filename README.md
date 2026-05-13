@@ -1,8 +1,10 @@
+![MasterHead](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gifv)
+
 # Krish Bhensdadia
 
 ### Aspiring AI Engineer | Python Developer | Problem Solver
 
----
+##
 
 # 👨‍💻 About Me
 
@@ -22,7 +24,7 @@ Driven by a passion for **Artificial Intelligence and Automation**, I focus on c
 - CSS3  
 - JavaScript  
 
----
+##
 
 ## 🛠 Tools & Databases
 
@@ -30,7 +32,7 @@ Driven by a passion for **Artificial Intelligence and Automation**, I focus on c
 - Git  
 - GitHub  
 
----
+##
 
 # 🎯 Core Competencies
 
@@ -41,7 +43,7 @@ Driven by a passion for **Artificial Intelligence and Automation**, I focus on c
 - Backend Development with Flask  
 - Intelligent Web Application Development  
 
----
+##
 
 # 📂 Areas of Interest
 
@@ -52,7 +54,7 @@ Driven by a passion for **Artificial Intelligence and Automation**, I focus on c
 - Intelligent Search Systems  
 - AI-Powered Tools  
 
----
+##
 
 # 🌟 Current Focus
 
@@ -62,14 +64,14 @@ Driven by a passion for **Artificial Intelligence and Automation**, I focus on c
 - Enhancing backend and API development skills  
 - Creating scalable and responsive digital products  
 
----
+##
 
 # 📫 Connect With Me
 
 - LinkedIn  
 - GitHub  
 
----
+##
 
 # ⚡ Motto
 

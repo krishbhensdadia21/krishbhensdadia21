@@ -28,7 +28,7 @@ Driven by a passion for **Artificial Intelligence and Automation**, I focus on c
 - Android Development  
 - Flask  
 
----
+##
 
 ## 🛠 Databases
 
@@ -38,7 +38,7 @@ Driven by a passion for **Artificial Intelligence and Automation**, I focus on c
 - SQLite
 - Firebase
 
----
+##
 
 ## ⚙️ Tools & Platforms
 
